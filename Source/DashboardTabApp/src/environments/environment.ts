@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://tt-qbot.azurewebsites.net/api/Request/",
+    apiBaseUrl: "https://tinkertanker-qbot.azurewebsites.net/api/Request/",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
